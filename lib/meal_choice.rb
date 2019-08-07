@@ -1,5 +1,5 @@
 def method(meal_choice, protein, veg1, veg2) 
-puts "A plate of veg1"
+puts "A plate of protein"
 end 
 if "A plate of #{protein} with #{veg1}"
 end
