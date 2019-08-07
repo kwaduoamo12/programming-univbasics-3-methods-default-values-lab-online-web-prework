@@ -1,4 +1,5 @@
 def "method meal_choice #{veg1, veg2, protein} 
+puts "
 puts meal_choice #{veg1}
 end 
 put meal_choice #{veg2}
