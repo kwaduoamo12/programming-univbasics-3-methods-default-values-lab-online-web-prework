@@ -1,5 +1,5 @@
-def "method meal_choice #{veg1, veg2, protein} 
-puts "
+def method meal_choice  
+puts "A plate of #{protein} with #{veg1} and #{veg2}
 puts meal_choice #{veg1}
 end 
 put meal_choice #{veg2}
