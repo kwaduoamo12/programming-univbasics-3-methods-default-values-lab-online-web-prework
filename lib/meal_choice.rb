@@ -9,4 +9,4 @@ end
   put meal_choice #{veg2}
   
 puts A plate of #{protein}
-end 
+return meal_choice
